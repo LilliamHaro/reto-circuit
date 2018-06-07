@@ -8,5 +8,5 @@
   - Jquery
   - Bootstrap
 
-[RECURSOS](assets/img/1.png)
-[RECURSOS](assets/img/2.png)
+![RECURSOS](vendors/img/1.png)
+![RECURSOS](vendors/img/2.png)
