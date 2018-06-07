@@ -1,15 +1,12 @@
-## Nombre del Proyecto
+## Reto Circuit
 # **Descripcion del proyecto:**
-  - Este proyecto contiene
-
-# **Funcionalidad**
-  - 
-  -  
+  - Este proyecto contiene un pagina web con submenus hecha como reto para la empresa circuit.
 
 # **Herramientas utilizadas:**
   - HTML5
   - CSS3
   - Jquery
-  - Bootstrap 4
+  - Bootstrap
 
-[RECURSOS](assets/images/...)
+[RECURSOS](assets/images/1.png)
+[RECURSOS](assets/images/2.png)
