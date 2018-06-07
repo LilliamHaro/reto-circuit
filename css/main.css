@@ -42,10 +42,10 @@ body {
   background-color: #fff;
 }
 .width-65 {
-  width: 65%;
+  width: 100%;
 }
 .width-35 {
-  width: 35%;
+  width: 100%;
 }
 .width-33 {
   width: 33%
@@ -64,7 +64,7 @@ body {
   margin-top: 10px;
 }
 .fz-10 {
-  font-size: 10px;
+  font-size: 12px;
 }
 .mr-tb-15 {
   margin-top: 10px;
@@ -76,7 +76,9 @@ body {
 .mr-b-15 {
   
     margin-bottom: 15px; 
-  
+}
+.overflow {
+  overflow: auto;
 }
 .pd-b-20 {
   padding-bottom: 20px;
@@ -99,10 +101,32 @@ body {
   border-bottom-color: 
   #4ac79f; 
 }
+.pd-lr-0 {
+  padding-left: 0;
+  padding-right: 0;
+}
+.width-50 {
+  width: 50%;
+}
 
 @media (min-width: 768px) { 
-
+.width-65 {
+  width: 65%;
+}
   .mg-t-5 {
     margin-top: 5vh;
+  }
+  .width-35 {
+    width: 35%;
+  }
+  .fz-10 {
+    font-size: inherit;
+  }
+  .fix-bottom  {
+    position: fixed;
+    bottom: 0;
+  }
+  .pd-lr-0 {
+    padding-right: 15px;
   }
  }
